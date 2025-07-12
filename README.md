@@ -5,6 +5,12 @@ A simple and interactive website that converts temperature values between *Celsi
 ##  Description
 
 This project allows users to input a temperature and choose a unit (Celsius or Fahrenheit) to convert the value accordingly. It is built using basic web technologies and designed to demonstrate user input handling and simple mathematical operations on a webpage.
+## Objectives
+1. Convert Temperature Easily – Help users convert between Celsius and Fahrenheit
+2. Provide Quick Results – Show instant and accurate output after entering a value.
+3. Simple to Use – Make the interface easy for anyone to understand and operate
+4. Practice JavaScript Logic – Demonstrate basic JavaScript for handling input and calculations.
+5. Learn Web Development – Strengthen my skills in HTML, CSS, and JavaScript through a real project.
 
 ##  Features
 
@@ -13,7 +19,7 @@ This project allows users to input a temperature and choose a unit (Celsius or F
 - Displays accurate result instantly on button click
 - Simple and clean user interface
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML
 - JavaScript
