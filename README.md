@@ -39,5 +39,6 @@ This project allows users to input a temperature and choose a unit (Celsius or F
 - Basic front-end development using HTML, CSS, and JavaScript.
 - Handling of user input and DOM manipulation.
 - Real-world utility in converting temperature units.
-- ## Screenshots
-- 
+
+ ## Screenshots
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task3/blob/892f1b4a4856784e508c02e6498bb2e83e449489/Screenshot%202025-07-12%20220057.png)
