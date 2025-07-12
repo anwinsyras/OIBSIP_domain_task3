@@ -42,3 +42,4 @@ This project allows users to input a temperature and choose a unit (Celsius or F
 
  ## Screenshots
 ![image alt](https://github.com/anwinsyras/OIBSIP_domain_task3/blob/892f1b4a4856784e508c02e6498bb2e83e449489/Screenshot%202025-07-12%20220057.png)
+![image alt](https://github.com/anwinsyras/OIBSIP_domain_task3/blob/359bf9f7349a06b320b0e9cc2dc7c8da94d4dd6d/Screenshot%202025-07-12%20220113.png)
