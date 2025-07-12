@@ -1,4 +1,4 @@
-# 🌡 Temperature Converter Website
+#  Temperature Converter Website
 
 A simple and interactive website that converts temperature values between *Celsius* and *Fahrenheit*.
 
